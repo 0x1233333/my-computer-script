@@ -1,1 +1,2 @@
-''wget -O f2b_auto.sh "https://raw.githubusercontent.com/0x1233333/my-computer-script/refs/heads/main/linux/ubentu-debian/Fail2ban-%E6%99%BA%E8%83%BD%E8%AF%8A%E6%96%AD%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC.sh" && chmod +x f2b_auto.sh && ./f2b_auto.sh''
+```bash
+wget -O f2b_auto.sh "[https://raw.githubusercontent.com/0x1233333/my-computer-script/refs/heads/main/linux/ubentu-debian/Fail2ban-%E6%99%BA%E8%83%BD%E8%AF%8A%E6%96%AD%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC.sh](https://raw.githubusercontent.com/0x1233333/my-computer-script/refs/heads/main/linux/ubentu-debian/Fail2ban-%E6%99%BA%E8%83%BD%E8%AF%8A%E6%96%AD%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC.sh)" && chmod +x f2b_auto.sh && ./f2b_auto.sh
